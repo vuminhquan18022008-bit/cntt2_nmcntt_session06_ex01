@@ -1,0 +1,5 @@
+Phần 1 :
+1.	Bởi vì dòng script của Nam sẽ ngay lập tức nạp toàn bộ 500mb dữ liệu vào ram , khiến trình xử lí văn bản notepad bị quá tải khiến máy bị đơ
+Phần 2 : 
+1.	Lệnh powershell : Get-Content server_log_500MB.log | more
+2.	Lệnh để xem 10 dòng cuối : Get-Content server_log_500MB.log | more
